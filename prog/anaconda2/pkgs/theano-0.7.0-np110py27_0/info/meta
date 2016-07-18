@@ -1,0 +1,7 @@
+pkg: theano-0.7.0
+dist: theano-0.7.0-np110py27_0
+home: http://deeplearning.net/software/theano/
+license: BSD
+has_bin: True
+has_lib: False
+has_py: True

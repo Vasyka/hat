@@ -1,0 +1,7 @@
+pkg: networkx-1.10
+dist: networkx-1.10-py27_0
+home: http://networkx.lanl.gov/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True

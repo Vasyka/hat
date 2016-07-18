@@ -1,0 +1,7 @@
+pkg: lxml-3.4.4
+dist: lxml-3.4.4-py27_0
+home: http://lxml.de/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True

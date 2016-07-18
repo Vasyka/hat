@@ -1,0 +1,14 @@
+==> git log -n1 <==
+commit d5e59b23cadb20e9d5c95f099a25564ad2afbd15
+Author: Phillip Cloud <cpcloud@gmail.com>
+Date:   Tue Sep 15 10:47:52 2015 -0700
+
+    Add release date to release notes
+
+==> git describe --tags --dirty <==
+0.3.4
+
+==> git status <==
+# Not currently on any branch.
+nothing to commit, working directory clean
+

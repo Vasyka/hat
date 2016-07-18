@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64", 
+  "build": "np110py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "numpy 1.10*", 
+    "openblas 0.2.14", 
+    "python 2.7*"
+  ], 
+  "license": "BSD", 
+  "name": "scipy", 
+  "platform": "linux", 
+  "requires": [
+    "numpy 1.10", 
+    "openblas 0.2.14", 
+    "python 2.7"
+  ], 
+  "subdir": "linux-64", 
+  "ucs": 4, 
+  "version": "0.16.0"
+}

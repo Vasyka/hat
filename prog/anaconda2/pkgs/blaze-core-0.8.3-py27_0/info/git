@@ -1,0 +1,14 @@
+==> git log -n1 <==
+commit 9a7b232317448b5b6355c6fd1662dae0c45533d4
+Author: llllllllll <joe@quantopian.com>
+Date:   Tue Sep 15 17:26:35 2015 -0400
+
+    MAINT: typo, schema is not possesive
+
+==> git describe --tags --dirty <==
+0.8.3
+
+==> git status <==
+# Not currently on any branch.
+nothing to commit, working directory clean
+

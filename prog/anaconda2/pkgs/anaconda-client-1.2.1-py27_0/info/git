@@ -1,0 +1,21 @@
+==> git log -n1 <==
+commit 5ac678e385a66280f2cd4729e58c0383e0f1766d
+Merge: 5cdafa3 b19fc85
+Author: Derek Ludwig <derek.s.ludwig@gmail.com>
+Date:   Thu Dec 3 14:03:42 2015 -0800
+
+    Merge pull request #257 from Anaconda-Server/fix/requests-version-warning
+    
+    PR: Requests/PyOpenSSL version warning
+
+==> git describe --tags --dirty <==
+1.2.1
+
+==> git status <==
+# Not currently on any branch.
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ANACONDA_DIST.txt
+nothing added to commit but untracked files present (use "git add" to track)
+

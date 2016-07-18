@@ -1,0 +1,7 @@
+pkg: openpyxl-2.2.6
+dist: openpyxl-2.2.6-py27_0
+home: http://openpyxl.readthedocs.org
+license: MIT
+has_bin: False
+has_lib: False
+has_py: True

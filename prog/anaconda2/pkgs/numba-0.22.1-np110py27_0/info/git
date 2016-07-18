@@ -1,0 +1,14 @@
+==> git log -n1 <==
+commit eafcea60ab335ea76df587b8e1ec9e7f508b6008
+Author: Siu Kwan Lam <michael.lam.sk@gmail.com>
+Date:   Tue Nov 3 20:55:44 2015 -0600
+
+    Disable unstable cuda test that behaves differently in jenkins
+
+==> git describe --tags --dirty <==
+0.22.1
+
+==> git status <==
+# On branch master
+nothing to commit (working directory clean)
+

@@ -1,0 +1,7 @@
+pkg: traitlets-4.0.0
+dist: traitlets-4.0.0-py27_0
+home: http://ipython.org/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True

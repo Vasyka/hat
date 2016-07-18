@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_x0", 
+  "build_channel": "x", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "name": "_cache", 
+  "platform": "linux", 
+  "requires": [
+    "python 2.7"
+  ], 
+  "subdir": "linux-64", 
+  "ucs": 4, 
+  "version": "0.0"
+}

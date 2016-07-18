@@ -1,0 +1,3 @@
+bin/theano-cache
+bin/theano-nose
+bin/theano-test
